@@ -11,3 +11,15 @@ Education
 Skills
 ------
 JavaScript, Git, HTML / CSS
+
+Projects
+------
+**https://github.com/DmitriySmolin?tab=repositories**
+
+Contacts
+------
+**e-mail:**  neox56@gmail.com
+
+**skype:** crazyonyx216
+
+**vk:** https://vk.com/id139663339
