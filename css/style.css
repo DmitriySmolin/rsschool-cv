@@ -76,14 +76,3 @@ body {
     width: 124px;
     height: 139px;
 }
-
-footer {
-    display: flex;
-    justify-content: space-around;
-}
-
-.footer-text {
-    padding: 15px 20px;
-    text-align: center;
-    font-size: 19px;
-}
